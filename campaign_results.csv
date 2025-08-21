@@ -1,0 +1,6 @@
+"Email,Status,Link Clicked,Credentials Submitted,Reported"
+"alice@internee.pk,Clicked,Yes,No,No"
+"bob@internee.pk,Clicked,Yes,Yes,No"
+"charlie@internee.pk,Opened,No,No,Yes"
+"david@internee.pk,Clicked,Yes,No,No"
+"emma@internee.pk,Opened,No,No,Yes"
